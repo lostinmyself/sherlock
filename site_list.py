@@ -26,3 +26,6 @@ with open("sherlock/resources/data.json", "w") as data_file:
 
 print("Finished updating supported site listing!")
 melissa tatge
+python3 sherlock melissatatge
+opdate
+python3
